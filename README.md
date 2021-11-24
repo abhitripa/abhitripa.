@@ -1,4 +1,4 @@
-<htm>
+<html>
     <head>
         <title>
             Registration form
@@ -9,7 +9,7 @@
 <br>
 <form>
     <label>*Firstname</label>
-        <input type="firstname" size="15"required><br>
+        <input type="firstname" size="15"required /><br>
         <label> Middlename: </label>     
         <input type="text" name="middlename" size="15" /> <br> <br>  
         <label> *Lastname: </label>         
@@ -60,4 +60,4 @@
     <input type="reset" value="reset">  
 </form>
     </body>
-</htm>
+</html>
